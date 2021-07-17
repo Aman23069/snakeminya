@@ -3,7 +3,7 @@
     margin:0%;
 }
 .body{
-    background: url("../natural.png");
+    background: url("natural.png");
     min-height: 100vh;
     background-size: 100% 100%;
     display: flex;
