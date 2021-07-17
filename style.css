@@ -18,14 +18,7 @@
     font-size: 40px;
     font-weight: bold;
 }
-#creater{
-    position:absolute;
-    top:200px;
-    right:1200px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 40px;
-    font-weight: bold;
-}
+
 #hiscoreBox{
     position: absolute;
     top: 600px;
